@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP.01-UnicornReplacementUI", "AP.01-UnicornReplacementUI\AP.01-UnicornReplacementUI.csproj", "{BA074D4B-FDA1-41D2-886F-64FC336E679E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AP.CL-UnicornReplacementClassLibrary", "AP.CL-UnicornReplacementClassLibrary\AP.CL-UnicornReplacementClassLibrary.csproj", "{B157B8E6-D875-40B8-8785-C48212AA7ED6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA074D4B-FDA1-41D2-886F-64FC336E679E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA074D4B-FDA1-41D2-886F-64FC336E679E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA074D4B-FDA1-41D2-886F-64FC336E679E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA074D4B-FDA1-41D2-886F-64FC336E679E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B157B8E6-D875-40B8-8785-C48212AA7ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B157B8E6-D875-40B8-8785-C48212AA7ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B157B8E6-D875-40B8-8785-C48212AA7ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B157B8E6-D875-40B8-8785-C48212AA7ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069E63B1-70E2-4A92-8A63-B5CC20BA1ADD}
+	EndGlobalSection
+EndGlobal
